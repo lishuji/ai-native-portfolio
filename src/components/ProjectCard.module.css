@@ -1,0 +1,49 @@
+.card {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 300px;
+  margin: 1rem;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.demoBtn {
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+  background-color: #1e90ff;
+  color: white;
+}
+
+.demo {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+.detailLink {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+
+
+/* 这里是 projectList 样式 */
+.projectList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
