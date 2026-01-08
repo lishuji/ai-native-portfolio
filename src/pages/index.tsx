@@ -23,7 +23,7 @@ export default function Home() {
             </Link>
             <a
               className={styles.buttonSecondary}
-              href="https://github.com/kanelli"
+              href="https://github.com/lishuji"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -109,12 +109,12 @@ export default function Home() {
       <section className={styles.contact}>
         <h2>联系我</h2>
         <div className={styles.contactLinks}>
-          <a className={styles.contactLink} href="mailto:kanelli@example.com">
-            📧 lishuji2547@gmail.com.com
+          <a className={styles.contactLink} href="mailto:lishuji2547@gmail.com">
+            📧 lishuji2547@gmail.com
           </a>
           <a
             className={styles.contactLink}
-            href="https://github.com/kanelli"
+            href="https://github.com/lishuji"
             target="_blank"
             rel="noopener noreferrer"
           >
