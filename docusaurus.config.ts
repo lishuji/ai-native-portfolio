@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'kane',
   tagline: 'kane个人作品集',
-  favicon: 'img/kane.webp',
+  favicon: 'img/kane.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
