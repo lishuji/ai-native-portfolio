@@ -1,19 +1,44 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+前端:
+  label: 前端开发
+  permalink: /frontend
+  description: 前端开发技术分享
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+拖拽:
+  label: 拖拽交互
+  permalink: /drag-drop
+  description: 拖拽交互设计与实现
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+排序:
+  label: 排序算法
+  permalink: /sorting
+  description: 排序相关技术方案
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+React:
+  label: React
+  permalink: /react
+  description: React 框架技术分享
+
+Vue:
+  label: Vue
+  permalink: /vue
+  description: Vue 框架技术分享
+
+性能优化:
+  label: 性能优化
+  permalink: /performance
+  description: 前端性能优化技术
+
+后端:
+  label: 后端开发
+  permalink: /backend
+  description: 后端开发技术分享
+
+架构设计:
+  label: 架构设计
+  permalink: /architecture
+  description: 系统架构设计经验
+
+AI:
+  label: AI 技术
+  permalink: /ai
+  description: AI 人工智能技术分享
