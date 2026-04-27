@@ -42,18 +42,3 @@ AI:
   label: AI 技术
   permalink: /ai
   description: AI 人工智能技术分享
-
-Redis:
-  label: Redis
-  permalink: /redis
-  description: Redis 缓存与数据结构技术
-
-ElasticSearch:
-  label: ElasticSearch
-  permalink: /elasticsearch
-  description: ElasticSearch 搜索引擎技术
-
-Go:
-  label: Go
-  permalink: /go
-  description: Go 语言开发技术分享
