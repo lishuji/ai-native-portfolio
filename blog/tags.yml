@@ -57,3 +57,18 @@ Go:
   label: Go
   permalink: /go
   description: Go 语言开发技术分享
+
+性能测试:
+  label: 性能测试
+  permalink: /perf-testing
+  description: 性能测试与压测实践
+
+k6:
+  label: k6
+  permalink: /k6
+  description: k6 性能测试工具
+
+测试工具:
+  label: 测试工具
+  permalink: /testing-tools
+  description: 研发测试工具与实践
